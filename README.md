@@ -7,3 +7,4 @@ Feature1
 Feature1-2
 Feature1-3
 Bugfix1
+Bugfix2
